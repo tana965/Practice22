@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <style name="Theme.Practice22.Launcher">
+            <item name="android:windowBackground">@drawable/anim</item>
+        </style>
+</resources>
